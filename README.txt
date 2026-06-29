@@ -18,3 +18,9 @@ git switch dev-19.0
 
 
 Mas datos en README
+
+Merge a tst
+git switch tst-19.0
+git pull origin tst-19.0
+git merge dev-19.0
+
