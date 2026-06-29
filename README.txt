@@ -15,3 +15,6 @@ git switch 19.0
 git switch tst-19.0
 git switch dev-19.0
 
+
+
+Mas datos en README
